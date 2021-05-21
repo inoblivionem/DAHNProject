@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.isocat.org/ns/dcr" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:tei="http://www.tei-c.org/ns/1.0">
-  <xs:import namespace="http://www.tei-c.org/ns/1.0" schemaLocation="correspondance_xsd.xsd"/>
+  <xs:import namespace="http://www.tei-c.org/ns/1.0" schemaLocation="correspondance.xsd"/>
   <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
   <xs:attribute name="datcat">
     <xs:annotation>
